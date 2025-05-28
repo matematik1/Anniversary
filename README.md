@@ -59,18 +59,31 @@
 ## 📂 Структура файлів та папок (очікувана)
 .
 ├── <назва_вашого_файлу.py>    # Основний скрипт Python
+
 ├── image/
+
 │   ├── app.ico
+
 │   ├── anniversary.png
+
 │   ├── font1.png
+
 │   ├── git.png
+
 │   ├── img (1).png
+
 │   ├── ...
+
 │   ├── img (25).png
+
 │   ├── tg.png
+
 │   ├── tt.png
+
 │   └── used.png
+
 └── musick/
+
 └── musick.mp3
 
 ## 📝 Можливі доопрацювання та налаштування
@@ -152,18 +165,31 @@ This is a desktop application in Python, created using Tkinter, which serves as 
 ## 📂 File and Folder Structure (Expected)
 .
 ├── <your_script_name.py>    # Main Python script
+
 ├── image/
+
 │   ├── app.ico
+
 │   ├── anniversary.png
+
 │   ├── font1.png
+
 │   ├── git.png
+
 │   ├── img (1).png
+
 │   ├── ...
+
 │   ├── img (25).png
+
 │   ├── tg.png
+
 │   ├── tt.png
+
 │   └── used.png
+
 └── musick/
+
 └── musick.mp3
 
 ## 📝 Possible Enhancements and Customizations
