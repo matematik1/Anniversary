@@ -1,3 +1,5 @@
+[![Latest release](https://img.shields.io/badge/Release-click-labelColor=0000&logoColor=0eff0e)](https://github.com/matematik1/Anniversary/releases/latest)
+
 # Ukrainian language
 # Вітальна Листівка "З Ювілеєм!"  
 
